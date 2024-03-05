@@ -84,38 +84,38 @@ print(len(x_test))
 ```
 
 ## OUTPUT:
-## DATASET:
+### DATASET:
 ![nn1](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/02a6ee63-035a-4f1b-bdb2-c34435c3a12a)
 
-## DROPPING THE UNWANTED DATASET:
+### DROPPING THE UNWANTED DATASET:
 ![nn2](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/a5b0682d-5603-492b-a066-57cc38e631f9)
 
-## CHECKING NULL VALUES:
+### CHECKING NULL VALUES:
 ![nn3](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/0e93eebc-4282-400d-be9a-0fb754e769ae)
 
 
-## CHECKING FOR DUPLICATION:
+### CHECKING FOR DUPLICATION:
 ![nn4](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/906b75bc-e03d-4634-aeea-ad6061830f66)
 
 
-## DESCRIBING THE DATASET:
+### DESCRIBING THE DATASET:
 ![nn5](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/c4ad4b90-cf84-4a4a-9ce3-3798b675816a)
 
-## SCALING THE DATASET:
+### SCALING THE DATASET:
 ![nn6](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/731c3551-32dc-48e0-8ee1-0776196a816b)
 
-## X FEATURES:
+### X FEATURES:
 ![nn7](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/5f351a71-41dd-47ce-ae1d-948a917aa79d)
 
 
-## Y FEATURES:
+### Y FEATURES:
 ![nn8](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/4f1b8df4-ba2a-45ec-b188-7e8d628c4d73)
 
-## SPLITTING THE TRAINING AND TESTING DATASET:
+### SPLITTING THE TRAINING AND TESTING DATASET:
 ![nn9](https://github.com/Rajeshanbu/Ex-1-NN/assets/118924713/1e635229-4ccc-4aeb-a97e-b3ade9fd2a65)
 
 
-## RESULT:
+### RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
 
